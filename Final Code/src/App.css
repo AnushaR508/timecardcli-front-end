@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.hv-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.homeimg {
+  width: 1200px;
+  height: 600px;
+}
+
+.mybtn {
+  width: 500px;
+  height: 100px;
+}
+
+.btn-work {
+  width: 400px;
+  height: 80px;
+  margin: 10px auto;
+  padding: 0;
+  display: table-cell;
+  vertical-align: middle;
+  font-size: 40px;
+}
